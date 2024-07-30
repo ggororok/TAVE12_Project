@@ -1,8 +1,22 @@
-# TAVE12_Project
-
-## 비건 화장품 추천 시스템
+# 💄 비건 화장품 추천 시스템
+**[TAVE12기 프로젝트]에서 해당 주제로 참여하였습니다.** </br>
 사이트 링크: https://smore.im/quiz/nJe60YDNGH </br>
 </br>
+
+## 💻 Technology
+***
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;<br>
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) &nbsp; ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) &nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) &nbsp; ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp; ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp; ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) &nbsp; ![amazon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+<br>
+<br>
+
+## 📅 개발 기간
+***
+ - 2024-05-15 ~ 2024-06-03
+<br>
+
+## 📌 구현 과정
 
 1️⃣ 데이터 구축: 총 15759개 데이터 
 - 올리브영 사이트 웹 크롤링(제품,리뷰) 
