@@ -1,11 +1,8 @@
 <h1 align="center"> 💄 비건 화장품 추천 시스템 </h1>
+<div align="center"> <img src="https://github.com/user-attachments/assets/a691433a-f088-463c-86ed-040a495e1f4f" alt="비건화장품"> </div>
 
 **<div align="center">[TAVE12기 프로젝트]에서 해당 주제로 참여하였습니다.</div>**
 <div align="center">사이트 링크: https://smore.im/quiz/nJe60YDNGH </div> </br>
-  
-<div align="center"> <img src="https://github.com/user-attachments/assets/0b11ed63-fa4b-42d6-b2cd-ca6f71c20433" alt="메인이미지" width="900"> </div>
-</br>
-
 </br>
 
 ### 💻 Technology
