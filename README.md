@@ -32,6 +32,7 @@
    
 **5️⃣ 스모어 설문 사이트 사용하여 테스트** </br>
 - 클러스터링 별 키워드를 기준으로 설문 문항 구상 / 답변마다 가중치(0-3) 부여
+</br>
 
 ## 💻 Technology
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;<br>
