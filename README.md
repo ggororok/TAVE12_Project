@@ -3,7 +3,6 @@
 
 **<div align="center">[TAVE12기 프로젝트]에서 해당 주제로 참여하였습니다.</div>**
 <div align="center">사이트 링크: https://smore.im/quiz/nJe60YDNGH </div> </br>
-</br>
 
 ### 💻 Technology
 ***
