@@ -4,20 +4,11 @@
 **<div align="center">[TAVE12기 프로젝트]에서 해당 주제로 참여하였습니다.</div>**
 <div align="center">사이트 링크: https://smore.im/quiz/nJe60YDNGH </div> </br>
 
-### 💻 Technology
-***
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;<br>
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)&nbsp; ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) &nbsp;<br>
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) &nbsp; ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) &nbsp; ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;<br>
-<br>
-
-### 📅 개발 기간
-***
+## 📅 개발 기간
  - 2023-11-18 ~ 2024-01-27
 <br>
 
-### 📌 구현 과정
-
+## 📌 구현 과정
 **1️⃣데이터 구축: 총 15759개 데이터** </br>
 - 올리브영 사이트 웹 크롤링(제품,리뷰) 
 - 제품 데이터: 제품명, 제품 브랜드, 가격, 카테고리, 총 리뷰 개수, 총 평점, 용량, 성분, 제품 이미지 (Selenium, Octoparse) 
@@ -41,3 +32,9 @@
    
 **5️⃣ 스모어 설문 사이트 사용하여 테스트** </br>
 - 클러스터링 별 키워드를 기준으로 설문 문항 구상 / 답변마다 가중치(0-3) 부여
+
+## 💻 Technology
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;<br>
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)&nbsp; ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) &nbsp;<br>
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) &nbsp; ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) &nbsp; ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;<br>
+<br>
